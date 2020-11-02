@@ -1,0 +1,14 @@
+E:\XamarinKurssi\FuelApp\FuelApp\bin\Debug\netstandard2.0\FuelApp.deps.json
+E:\XamarinKurssi\FuelApp\FuelApp\bin\Debug\netstandard2.0\FuelApp.dll
+E:\XamarinKurssi\FuelApp\FuelApp\bin\Debug\netstandard2.0\ref\FuelApp.dll
+E:\XamarinKurssi\FuelApp\FuelApp\bin\Debug\netstandard2.0\FuelApp.pdb
+E:\XamarinKurssi\FuelApp\FuelApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\XamarinKurssi\FuelApp\FuelApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\XamarinKurssi\FuelApp\FuelApp\obj\Debug\netstandard2.0\FuelApp.AssemblyInfoInputs.cache
+E:\XamarinKurssi\FuelApp\FuelApp\obj\Debug\netstandard2.0\FuelApp.AssemblyInfo.cs
+E:\XamarinKurssi\FuelApp\FuelApp\obj\Debug\netstandard2.0\FuelApp.dll
+E:\XamarinKurssi\FuelApp\FuelApp\obj\Debug\netstandard2.0\ref\FuelApp.dll
+E:\XamarinKurssi\FuelApp\FuelApp\obj\Debug\netstandard2.0\FuelApp.pdb
+E:\XamarinKurssi\FuelApp\FuelApp\obj\Debug\netstandard2.0\FuelApp.csproj.CoreCompileInputs.cache
+E:\XamarinKurssi\FuelApp\FuelApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\XamarinKurssi\FuelApp\FuelApp\obj\Debug\netstandard2.0\FuelApp.csprojAssemblyReference.cache
